@@ -28,11 +28,12 @@ cd react-native-start
 npm install
 ```
 ## Running the App
+```bash
 npm run start     # Start the Expo development server
 npm run android   # Run on Android device/emulator
 npm run ios       # Run on iOS simulator
 npm run web       # Run on web browser
-
+```
 
 ### Notes:
 - Remember to replace `https://github.com/rekarachmadi99/react-native-start.git` with the actual URL of your GitHub repository.
